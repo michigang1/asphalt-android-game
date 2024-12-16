@@ -10,7 +10,7 @@ android {
 
     defaultConfig {
         applicationId = "me.michigang1.asphalt"
-        minSdk = 21
+        minSdk = 24
         //noinspection EditedTargetSdkVersiono
         targetSdk = 35
         compileSdk = 35
