@@ -11,7 +11,7 @@ import com.example.racingcar.utils.Constants
 fun Modifier.detectCarPositionByPointerInput(
     maxWidth: Int,
     onDetectPosition: (CarPosition) -> Unit
-) = Modifier.then(pointerInteropFilter(
+) = pointerInteropFilter(
     requestDisallowInterceptTouchEvent = RequestDisallowInterceptTouchEvent()
 ) {
     val currentX = it.x
@@ -30,4 +30,4 @@ fun Modifier.detectCarPositionByPointerInput(
         }
 
     true
-})
+}
