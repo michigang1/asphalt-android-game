@@ -66,6 +66,6 @@ jobs:
         uses: actions/upload-release-asset@v1  # Upload the APK file to the release
         with:
           upload_url: ${{ steps.create_release.outputs.upload_url }}  # Get the upload URL from the create-release step
-          asset_path: app/build/outputs/apk/release/app-release.apk  # Path to the APK file
+          asset_path: app/build/outputs/apk/release/app-release-unsigned.apk  # Path to the APK file
           asset_name: app-release.apk  # Name of the APK file
           asset_content_type: application/vnd.android.package-archive  # Content type for APK
