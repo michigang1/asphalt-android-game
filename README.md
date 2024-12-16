@@ -1,18 +1,23 @@
 # Car Roading Android Game
 
+![GitHub](https://img.shields.io/github/license/michigang1/asphalt-android-game)
+![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)
+![Kotlin](https://img.shields.io/badge/Kotlin-0095D5?style=for-the-badge&logo=kotlin&logoColor=white)
+![Jetpack Compose](https://img.shields.io/badge/Jetpack%20Compose-6200EE?style=for-the-badge&logo=android&logoColor=white)
+![Dagger Hilt](https://img.shields.io/badge/Dagger%20Hilt-FF8800?style=for-the-badge&logo=android&logoColor=white)
+![Gradle](https://img.shields.io/badge/Gradle-02303A?style=for-the-badge&logo=gradle&logoColor=white)
+
+
+ <div style="text-align:center"><img alt="img" height="500" src="screenschots/record.gif" width="250"/></div>
+
+
 **Car Roading** is a simple yet engaging racing car game implemented using **Jetpack Compose** for the Android platform. The game includes dynamic movement, collision detection, and a scoring system, providing an immersive user experience.
 
 ---
 
 ## Demo
 
-<img alt="png" height="500" src="/screenshots/img.png" width="250"/>
-<img alt="png" height="500" src="/screenshots/img_1.png" width="250"/>
-<img alt="png" height="500" src="/screenshots/img_2.png" width="250"/>
-<img alt="png" height="500" src="/screenshots/img_3.png" width="250"/>
-
-
-
+|<img alt="img" height="500" src="screenshots/img.png" width="250"/>|<img alt="img1" height="500" src="screenshots/img_1.png" width="250"/>|<img alt="img" height="500" src="screenshots/img_2.png" width="250"/>|<img alt="img" height="500" src="screenshots/img_3.png" width="260"/>|
 
 ## Table of Contents
 
