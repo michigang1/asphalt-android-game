@@ -94,7 +94,7 @@ Follow these steps to set up the project:
 - Android Studio oder IntelliJ IDEA (Latest version)
 - Gradle (Kotlin Gradle Plugin) (Integrated with Android Studio)
 - Kotlin 1.8 or higher
-- Minimum **Android SDK 21**
+- Minimum **Android SDK 24**
 
 ### Steps
 1. **Clone the Repository**
