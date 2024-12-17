@@ -1,4 +1,4 @@
-# Car Roading Android Game
+# Asphalt Android Game
 
 ![GitHub](https://img.shields.io/github/license/michigang1/asphalt-android-game)
 ![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)
@@ -11,7 +11,7 @@
  <div style="text-align:center"><img alt="img" height="500" src="screenschots/record.gif" width="250"/></div>
 
 
-**Car Roading** is a simple yet engaging racing car game implemented using **Jetpack Compose** for the Android platform. The game includes dynamic movement, collision detection, and a scoring system, providing an immersive user experience.
+**Asphalt Android Game** is a simple yet engaging racing car game implemented using **Jetpack Compose** for the Android platform. The game includes dynamic movement, collision detection, and a scoring system, providing an immersive user experience.
 
 ---
 
@@ -34,7 +34,7 @@
 
 ## Description
 
-Car Roading is a 2D racing game developed for Android using modern development tools and frameworks. The game features smooth animations, intuitive controls (accelerometer), and dynamic obstacles, delivering a polished mobile gaming experience.
+Asphalt is a 2D racing game developed for Android using modern development tools and frameworks. The game features smooth animations, intuitive controls (accelerometer), and dynamic obstacles, delivering a polished mobile gaming experience.
 
 ---
 
